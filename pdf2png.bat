@@ -1,0 +1,1 @@
+python "%~dp0\pdf2png.py" %*
